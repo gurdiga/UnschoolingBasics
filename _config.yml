@@ -16,7 +16,7 @@
 title: Unschooling Basics
 email:
 description:
-baseurl: "/archive/UnschoolingBasics" # the subpath of your site, e.g. /blog
+baseurl: "/UnschoolingBasics" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /topic/:slug/
 show_excerpts: false
